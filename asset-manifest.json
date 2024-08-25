@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/humuyar/project-Create-React-App/pull/1/static/css/main.2947c3eb.css",
+    "main.js": "/humuyar/project-Create-React-App/pull/1/static/js/main.23e5b18c.js",
+    "static/js/453.0fb049c5.chunk.js": "/humuyar/project-Create-React-App/pull/1/static/js/453.0fb049c5.chunk.js",
+    "index.html": "/humuyar/project-Create-React-App/pull/1/index.html",
+    "main.2947c3eb.css.map": "/humuyar/project-Create-React-App/pull/1/static/css/main.2947c3eb.css.map",
+    "main.23e5b18c.js.map": "/humuyar/project-Create-React-App/pull/1/static/js/main.23e5b18c.js.map",
+    "453.0fb049c5.chunk.js.map": "/humuyar/project-Create-React-App/pull/1/static/js/453.0fb049c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2947c3eb.css",
+    "static/js/main.23e5b18c.js"
+  ]
+}
